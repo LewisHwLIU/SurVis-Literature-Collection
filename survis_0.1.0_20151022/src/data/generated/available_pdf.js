@@ -1,0 +1,1 @@
+define({availablePdf: ["Wang2018","Devlin2018","Zhang2017","Liu2019","Guan2011","Li2008","Cer2018","Lai2015","Vaswani2017","Reimers2019"]});
